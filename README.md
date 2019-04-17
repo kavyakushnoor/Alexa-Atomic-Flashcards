@@ -1,5 +1,5 @@
 # Atomic-Flashcards
-Using Alexa Skill with AWS Lambda functions in node.js, AWS DynamoDB and API Gateway to control the display flashcards on web browser.
+Using Alexa Skill with AWS Lambda functions in node.js, AWS DynamoDB and API Gateway to control the display of flashcards on web browser.
 
 
 
